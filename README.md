@@ -12,11 +12,11 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the fol
 
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) githubReadme
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) d41d6ddfb98cc11c85ea0cdaf70da8b8
 ```
 Method 2: Install via ghp.ci proxy script
 ```bash
-bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) githubReadme
+bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) d41d6ddfb98cc11c85ea0cdaf70da8b8
 ```
 Method 3: Manually download the binary file
 > download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases) page
@@ -56,7 +56,7 @@ Enjoy cursor-vip:
 ---
 ### Promotion Guide
 By promoting cursor-vip, you can automatically get up to an unlimited amount of free usage time, and the other party can also get 15 days of free (self-registration for 7 days), you can refer to the following methods:
-1. After cloning this repository, replace `githubReadme` in the `README` with your DeviceID.
+1. After cloning this repository, replace `d41d6ddfb98cc11c85ea0cdaf70da8b8` in the `README` with your DeviceID.
 2. Post articles on platforms such as SegmentFault/Stack Overflow/GitHub Discussions/Reddit/Dev.to/Hacker News/DZone/V2EX/Quora/WeChat Official Account/Zhihu/Bilibili/CSDN/, promoting the use of cursor pro in this way, and attach your own promotional installation command or cloned github address.
 3. Comment under cursor related articles or videos, for example: "Cooperate with Github's [Your Github Name]/cursor-vip for low-priced or freelancing Pro"
 ---
